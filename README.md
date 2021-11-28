@@ -9,4 +9,4 @@ a program to check ids assigned to various types of variables in Python (with Py
 - unzip the file
 
 # EXECUTION OF PROGRAM
-- RUN `pythonProject > dist > id_check > id_check
+- RUN `pythonProject > dist > id_check > id_check`
